@@ -1,0 +1,7 @@
+<root>
+    <item name='jdk.internal.reflect.Reflection java.lang.IllegalAccessException newIllegalAccessException(java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;, int)'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val name="pure" val="true"/>
+        </annotation>
+    </item>
+</root>
